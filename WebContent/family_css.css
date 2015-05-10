@@ -1,0 +1,66 @@
+@charset "utf-8";
+/* CSS Document */
+.login{
+	background:#ffffff;
+	}
+.signUp{
+	background:#ffffff;
+	}
+.family{
+	background=#ffffff;
+	}
+#name{
+    display:block;
+    background-color:blue;
+}
+
+img{
+    border:1px solid black;  
+    float:left;
+}
+
+#hola{
+	
+}
+
+#details{
+   float:left;
+   width:200px;
+  
+}
+
+a{
+    text-decoration:none;    
+}
+
+#edit{
+    float:left;
+    margin-left:100px;
+}
+
+#add{
+    float:left;
+    position:relative;
+    margin-left:100px;
+}
+
+#father{
+    clear:both; 
+    margin:auto;
+}
+
+#mainrel{
+    
+}
+
+table{
+    display:block;
+    clear:both;
+    margin:auto;
+}
+
+#relations{
+    margin-left:100px;  
+}
+
+
